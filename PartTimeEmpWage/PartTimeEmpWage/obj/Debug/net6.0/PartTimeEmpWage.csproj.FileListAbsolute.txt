@@ -1,0 +1,15 @@
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\bin\Debug\net6.0\PartTimeEmpWage.exe
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\bin\Debug\net6.0\PartTimeEmpWage.deps.json
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\bin\Debug\net6.0\PartTimeEmpWage.runtimeconfig.json
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\bin\Debug\net6.0\PartTimeEmpWage.dll
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\bin\Debug\net6.0\PartTimeEmpWage.pdb
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.csproj.AssemblyReference.cache
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.AssemblyInfoInputs.cache
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.AssemblyInfo.cs
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.csproj.CoreCompileInputs.cache
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.dll
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\refint\PartTimeEmpWage.dll
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.pdb
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.genruntimeconfig.cache
+D:\dotnet\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\ref\PartTimeEmpWage.dll

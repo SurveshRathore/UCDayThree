@@ -1,0 +1,15 @@
+D:\dotnet\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.exe
+D:\dotnet\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.deps.json
+D:\dotnet\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.runtimeconfig.json
+D:\dotnet\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.dll
+D:\dotnet\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.pdb
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.csproj.AssemblyReference.cache
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.AssemblyInfoInputs.cache
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.AssemblyInfo.cs
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.csproj.CoreCompileInputs.cache
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.dll
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\refint\EmployeeWage.dll
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.pdb
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.genruntimeconfig.cache
+D:\dotnet\EmployeeWage\EmployeeWage\obj\Debug\net6.0\ref\EmployeeWage.dll

@@ -1,0 +1,15 @@
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\bin\Debug\net6.0\EmployeeAttendanceUC.exe
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\bin\Debug\net6.0\EmployeeAttendanceUC.deps.json
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\bin\Debug\net6.0\EmployeeAttendanceUC.runtimeconfig.json
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\bin\Debug\net6.0\EmployeeAttendanceUC.dll
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\bin\Debug\net6.0\EmployeeAttendanceUC.pdb
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\EmployeeAttendanceUC.csproj.AssemblyReference.cache
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\EmployeeAttendanceUC.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\EmployeeAttendanceUC.AssemblyInfoInputs.cache
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\EmployeeAttendanceUC.AssemblyInfo.cs
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\EmployeeAttendanceUC.csproj.CoreCompileInputs.cache
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\EmployeeAttendanceUC.dll
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\refint\EmployeeAttendanceUC.dll
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\EmployeeAttendanceUC.pdb
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\EmployeeAttendanceUC.genruntimeconfig.cache
+D:\dotnet\EmployeeAttendanceUC\EmployeeAttendanceUC\obj\Debug\net6.0\ref\EmployeeAttendanceUC.dll

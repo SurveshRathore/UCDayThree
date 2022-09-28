@@ -1,0 +1,15 @@
+D:\dotnet\MonthWage\MonthWage\bin\Debug\net6.0\MonthWage.exe
+D:\dotnet\MonthWage\MonthWage\bin\Debug\net6.0\MonthWage.deps.json
+D:\dotnet\MonthWage\MonthWage\bin\Debug\net6.0\MonthWage.runtimeconfig.json
+D:\dotnet\MonthWage\MonthWage\bin\Debug\net6.0\MonthWage.dll
+D:\dotnet\MonthWage\MonthWage\bin\Debug\net6.0\MonthWage.pdb
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\MonthWage.csproj.AssemblyReference.cache
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\MonthWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\MonthWage.AssemblyInfoInputs.cache
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\MonthWage.AssemblyInfo.cs
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\MonthWage.csproj.CoreCompileInputs.cache
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\MonthWage.dll
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\refint\MonthWage.dll
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\MonthWage.pdb
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\MonthWage.genruntimeconfig.cache
+D:\dotnet\MonthWage\MonthWage\obj\Debug\net6.0\ref\MonthWage.dll

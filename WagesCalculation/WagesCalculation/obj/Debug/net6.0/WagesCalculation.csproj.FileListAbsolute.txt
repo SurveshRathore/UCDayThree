@@ -1,0 +1,15 @@
+D:\dotnet\WagesCalculation\WagesCalculation\bin\Debug\net6.0\WagesCalculation.exe
+D:\dotnet\WagesCalculation\WagesCalculation\bin\Debug\net6.0\WagesCalculation.deps.json
+D:\dotnet\WagesCalculation\WagesCalculation\bin\Debug\net6.0\WagesCalculation.runtimeconfig.json
+D:\dotnet\WagesCalculation\WagesCalculation\bin\Debug\net6.0\WagesCalculation.dll
+D:\dotnet\WagesCalculation\WagesCalculation\bin\Debug\net6.0\WagesCalculation.pdb
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\WagesCalculation.csproj.AssemblyReference.cache
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\WagesCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\WagesCalculation.AssemblyInfoInputs.cache
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\WagesCalculation.AssemblyInfo.cs
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\WagesCalculation.csproj.CoreCompileInputs.cache
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\WagesCalculation.dll
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\refint\WagesCalculation.dll
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\WagesCalculation.pdb
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\WagesCalculation.genruntimeconfig.cache
+D:\dotnet\WagesCalculation\WagesCalculation\obj\Debug\net6.0\ref\WagesCalculation.dll

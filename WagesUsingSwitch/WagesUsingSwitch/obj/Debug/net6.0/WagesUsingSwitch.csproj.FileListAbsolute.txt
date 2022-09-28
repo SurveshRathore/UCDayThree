@@ -1,0 +1,15 @@
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\bin\Debug\net6.0\WagesUsingSwitch.exe
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\bin\Debug\net6.0\WagesUsingSwitch.deps.json
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\bin\Debug\net6.0\WagesUsingSwitch.runtimeconfig.json
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\bin\Debug\net6.0\WagesUsingSwitch.dll
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\bin\Debug\net6.0\WagesUsingSwitch.pdb
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\WagesUsingSwitch.csproj.AssemblyReference.cache
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\WagesUsingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\WagesUsingSwitch.AssemblyInfoInputs.cache
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\WagesUsingSwitch.AssemblyInfo.cs
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\WagesUsingSwitch.csproj.CoreCompileInputs.cache
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\WagesUsingSwitch.dll
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\refint\WagesUsingSwitch.dll
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\WagesUsingSwitch.pdb
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\WagesUsingSwitch.genruntimeconfig.cache
+D:\dotnet\WagesUsingSwitch\WagesUsingSwitch\obj\Debug\net6.0\ref\WagesUsingSwitch.dll
